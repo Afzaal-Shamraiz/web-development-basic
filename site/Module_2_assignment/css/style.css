@@ -1,3 +1,10 @@
-.abc{
-    background-color: aqua;
+.container{
+    width: 100%;
+    padding: 15px;
+}
+.my-5 {
+    margin: 50px auto;
+}
+h2.center-align {
+    text-align: center;
 }
