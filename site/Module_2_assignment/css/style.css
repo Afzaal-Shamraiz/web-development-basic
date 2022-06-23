@@ -61,12 +61,16 @@
     .col-md-4 {
         width: 45%;
     }
+    :nth-child(3) {
+        width: 95%;
+      }
     
 }
 
 @media screen and (max-width: 767px) {
     .col-md-4 {
-        width: 95%;
+        width: 100%;
+        margin: 10px auto;
     }
     
 }
